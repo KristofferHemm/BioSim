@@ -1,2 +1,0 @@
-class IllegalActionError(Exception):
-    pass
