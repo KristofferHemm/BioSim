@@ -41,7 +41,7 @@ Use the package manager `pip` to install BioSim.
 ```shell
 git clone https://github.com/KristofferHemm/biosim
 cd biosim
-python pip install . --user
+pip install . --user
 ```
 
 ## Usage
@@ -83,7 +83,7 @@ The index.html file will be built at `_build/html/index.html`.
 ## Uninstallation
 
 ```shell
-python pip uninstall biosim
+pip uninstall biosim
 ```
 
 ## Version history
