@@ -1,4 +1,4 @@
-# BioSim A02 Kristoffer Nissan
+# BioSim by Kristoffer
 
 ## Project description
 
