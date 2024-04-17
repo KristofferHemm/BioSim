@@ -41,7 +41,7 @@ Use the package manager `pip` to install BioSim.
 ```shell
 git clone https://github.com/KristofferHemm/biosim
 cd biosim
-python -m pip install .
+python pip install . --user
 ```
 
 ## Usage
@@ -66,7 +66,7 @@ sim.set_landscape_parameters('L', {'f_max': 600})
 sim.simulate(num_years=10)
 ```
 ## Examples
-Check out the [examples](https://gitlab.com/nmbu.no/emner/inf200/h2021/january-teams/a02_kristoffer_nissan/biosim-a02-kristoffer-nissan/-/tree/main/examples)
+Check out the [examples](https://github.com/KristofferHemm/biosim/tree/main/examples)
 directory for usage example scripts. 
 
 
@@ -83,7 +83,7 @@ The index.html file will be built at `_build/html/index.html`.
 ## Uninstallation
 
 ```shell
-python -m pip uninstall biosim
+python pip uninstall biosim
 ```
 
 ## Version history
