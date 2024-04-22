@@ -4,7 +4,9 @@ BioSim is a Python library for modelling the ecosystem of the Rossøya island ov
 The fauna on the island consists of two species: Herbivores and Carnivores. 
 Using this library will allow you to simulate how the fauna on the island evolves over time. 
 The library allows the user to vary the conditions on the island, such as island shape and 
-initial populations, to observe how changes in these conditions will affect the fauna over time.
+initial populations, to observe how changes in these conditions will affect the fauna over time.\
+
+The library has the posibility to graphically display the simulation over time, including the map of the island, heatmaps    that display the distribuition of each population on the island. In addidion, the total population count and population count for each specie is displayed as a graph. The fitness, age and weight for each specie are displayed in separate graphs. The complete simulation can be saved as a video. A video created from the example scprit sample_sim.py is displayed below.\
 
 https://github.com/KristofferHemm/BioSim/assets/167197952/63df4502-abf1-4ebd-92fe-33ca401e94d5
 
