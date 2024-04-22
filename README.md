@@ -6,6 +6,10 @@ Using this library will allow you to simulate how the fauna on the island evolve
 The library allows the user to vary the conditions on the island, such as island shape and 
 initial populations, to observe how changes in these conditions will affect the fauna over time.
 
+https://github.com/KristofferHemm/BioSim/assets/167197952/63df4502-abf1-4ebd-92fe-33ca401e94d5
+
+
+
 ## Features
 * Simulate 4 separate land types: Water, Lowland, Highland and Desert.
 * Simulate 2 animal species: Herbivores and Carnivores.
