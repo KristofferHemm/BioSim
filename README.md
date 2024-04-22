@@ -1,5 +1,3 @@
-# BioSim by Kristoffer
-
 ## Project description
 
 BioSim is a Python library for modelling the ecosystem of the Rossøya island over time. 
@@ -16,7 +14,7 @@ initial populations, to observe how changes in these conditions will affect the 
 * Support for configuration model parameters update mid-simulation.
 * Support for adding additional animals mid-simulation.
 * Support for exporting a log file of the simulation results.
-* **Support for saving and loading the simulation state**
+* Support for saving and loading the simulation state
 
 
 ## Dependencies
