@@ -6,7 +6,7 @@ Using this library will allow you to simulate how the fauna on the island evolve
 The library allows the user to vary the conditions on the island, such as island shape and 
 initial populations, to observe how changes in these conditions will affect the fauna over time.
 
-The library has the posibility to graphically display the simulation over time, including the map of the island, heatmaps    that display the distribuition of each population on the island. In addidion, the total population count and population count for each specie is displayed as a graph. The fitness, age and weight for each specie are displayed in separate graphs. The complete simulation can be saved as a video. A video created from the example scprit sample_sim.py is displayed below.
+The library has the posibility to graphically display the simulation over time, including the map of the island, heatmaps    that display the distribuition of each population on the island. In addidion, the total population count and population count for each specie is displayed as a graph. The fitness, age and weight for each specie are displayed in separate graphs. The complete simulation can be saved as a video. A video created from the example script sample_sim.py is displayed below.
 
 https://github.com/KristofferHemm/BioSim/assets/167197952/63df4502-abf1-4ebd-92fe-33ca401e94d5
 
